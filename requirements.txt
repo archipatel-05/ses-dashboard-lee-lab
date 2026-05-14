@@ -1,0 +1,16 @@
+streamlit
+pandas
+openpyxl
+requests
+numbers-parser
+plotly
+importlib.util
+io
+logging
+os
+re
+sys
+tempfile
+textwrap
+time
+zipfile
